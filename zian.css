@@ -1,0 +1,16 @@
+.links a{
+     padding: 20px;
+     text-decoration: none;
+     color: black;
+}
+
+.navbar{
+    display: flex;
+     justify-content: space-between;
+     background-color: burlywood;
+     color: white;
+}
+body{
+    background-image: url(images/download.jfif);
+     background-size: cover;
+}
